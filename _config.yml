@@ -1,0 +1,17 @@
+# General
+name: WorldsProject Blog
+description: "Status and Updates."
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 5
+permalink: /:title
+
+# Social share and comments.e
+twitter: worldsproject
+github: worldsproject
+
+# RSS feed
+rss-feed-limit: 10
+rss-show-full: "yes"
