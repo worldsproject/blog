@@ -1,6 +1,7 @@
 # General
 name: WorldsProject Blog
 description: "Status and Updates."
+url: "."
 
 markdown: redcarpet
 highlighter: pygments
