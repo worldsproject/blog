@@ -1,7 +1,7 @@
 # General
 name: WorldsProject Blog
 description: "Status and Updates."
-url: "."
+url: "https://worldsproject.github.io"
 
 markdown: redcarpet
 highlighter: pygments
